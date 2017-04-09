@@ -1,4 +1,3 @@
-
 ---
 title: "Data, Sampling, and Variation in Data and Sampling"
 layout: page
@@ -2145,17 +2144,3 @@ Systematic Sampling
 
 
 [1]: http://poq.oxfordjournals.org/content/70/5/759.full
-
-
-
-```python
-print 'hi'
-```
-
-    hi
-
-
-
-```python
-
-```
