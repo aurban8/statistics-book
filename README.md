@@ -1,7 +1,17 @@
+OpenStax statistics book with python examples. Work in progress.
+
+This book is hosted at [http://andreaurban.com/statistics-book/](http://andreaurban.com/statistics-book/)
+
+It was created using the instructions [here.](https://github.com/philschatz/textbookshttps://github.com/philschatz/textbooks)
+
+[Original book](https://openstax.org/details/books/introductory-statistics)
+
+[Book on github](https://github.com/philschatz/statistics-book)
+
+[R version of book](https://github.com/dynamicwebpaige/openstax-intro-stats)
+
+
 # [Table of Contents](./SUMMARY.md)
-
-TESTING
-
 
 The Table of Contents is in [./SUMMARY.md](./SUMMARY.md)
 
